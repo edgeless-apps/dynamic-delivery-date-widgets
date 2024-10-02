@@ -9,8 +9,8 @@ sidebar_position: 1
 ## Getting Started
 
 After installing the app, go through each setting to setup all the features.
-- [Basic settings](./basic-settings)
+- [Basic settings](/docs/category/basic-settings)
 
 Once done with the settings, you will need to install the widget(s) on your storefront
-- [Storefront installation](./storefront-installation)
+- [Storefront installation](/docs/category/storefront-installation)
 
