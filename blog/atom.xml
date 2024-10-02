@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://endiliey.github.io/dynamic-delivery-date-documentation/blog</id>
+    <id>https://edgeless-apps.github.io/dynamic-delivery-date-documentation/blog</id>
     <title>Dynamic Delivery Date Blog</title>
     <updated>2024-10-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://endiliey.github.io/dynamic-delivery-date-documentation/blog"/>
+    <link rel="alternate" href="https://edgeless-apps.github.io/dynamic-delivery-date-documentation/blog"/>
     <subtitle>Dynamic Delivery Date Blog</subtitle>
-    <icon>https://endiliey.github.io/dynamic-delivery-date-documentation/img/favicon.ico</icon>
+    <icon>https://edgeless-apps.github.io/dynamic-delivery-date-documentation/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Coming soon]]></title>
-        <id>https://endiliey.github.io/dynamic-delivery-date-documentation/blog/coming-soon</id>
-        <link href="https://endiliey.github.io/dynamic-delivery-date-documentation/blog/coming-soon"/>
+        <id>https://edgeless-apps.github.io/dynamic-delivery-date-documentation/blog/coming-soon</id>
+        <link href="https://edgeless-apps.github.io/dynamic-delivery-date-documentation/blog/coming-soon"/>
         <updated>2024-10-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello, world!]]></summary>
         <content type="html"><![CDATA[<p>Hello, world!</p>]]></content>
