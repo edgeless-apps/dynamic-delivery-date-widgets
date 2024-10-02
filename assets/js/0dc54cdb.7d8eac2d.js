@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_delivery_date_documentation=self.webpackChunkdynamic_delivery_date_documentation||[]).push([[466],{5326:e=>{e.exports=JSON.parse('{"authors":[{"name":"Edmond","title":"Owner/Developer @ Edgeless Apps LLC","page":{"permalink":"/dynamic-delivery-date-documentation/blog/authors/edmond"},"key":"edmond","count":1}]}')}}]);

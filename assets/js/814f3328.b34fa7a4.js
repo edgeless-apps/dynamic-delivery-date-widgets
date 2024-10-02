@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_delivery_date_documentation=self.webpackChunkdynamic_delivery_date_documentation||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Coming soon","permalink":"/dynamic-delivery-date-documentation/blog/coming-soon","unlisted":false,"date":"2024-10-02T00:00:00.000Z"}]}')}}]);

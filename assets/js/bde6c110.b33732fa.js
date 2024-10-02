@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_delivery_date_documentation=self.webpackChunkdynamic_delivery_date_documentation||[]).push([[663],{3508:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/dynamic-delivery-date-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

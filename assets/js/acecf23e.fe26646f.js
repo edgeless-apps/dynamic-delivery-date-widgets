@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_delivery_date_documentation=self.webpackChunkdynamic_delivery_date_documentation||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/dynamic-delivery-date-documentation/blog","blogTitle":"Blog","authorsListPath":"/dynamic-delivery-date-documentation/blog/authors"}')}}]);
