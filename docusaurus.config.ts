@@ -109,8 +109,8 @@ const config: Config = {
               to: "/blog",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/edgeless-apps/dynamic-delivery-date-documentation",
+              label: "Privacy policy",
+              href: "/privacy",
             },
           ],
         },
