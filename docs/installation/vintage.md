@@ -117,6 +117,6 @@ For paste location reference:
 
 - [Customizing vintage themes](https://help.shopify.com/en/manual/online-store/themes/themes-by-shopify/vintage-themes/customizing-vintage-themes)
 - [Theme architecture versions](https://help.shopify.com/en/manual/online-store/themes/managing-themes/versions)
-- [Extend your theme with apps](https://help.shopify.com/en/manual/online-store/themes/theme-structure/extend/apps#app-embeds)
+- [Extend your theme with apps](https://help.shopify.com/en/manual/online-store/themes/theme-structure/extend/apps)
 - [Snippets](https://shopify.dev/docs/storefronts/themes/architecture#snippets)
 - [Render liquid tag](https://shopify.dev/docs/api/liquid/tags/render)

@@ -66,6 +66,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
+      title: "Dynamic Delivery Date",
       style: "dark",
       logo: {
         alt: "Site Logo",
