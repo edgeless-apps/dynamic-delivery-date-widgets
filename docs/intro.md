@@ -40,10 +40,10 @@ After the app has installed on your store, go through the following steps to set
    2. On the Shipping profiles page, check or uncheck the "Setup general profile" checkbox to setup a general profile or custom profile, respectively.
       1. The general shipping profile applies to all products not in other shipping profiles.
       2. A custom shipping profile applies only to specific products, variants, collections, or product tags.
-   3. If setting up a custom shipping profile, select your product identifing condition preferences.
-   4. Add shipping zones by clicking "Add zone" to create a shipping zone. Update zone name and choose a market with underlying countries. Click "Done" when finised.
-      1. note: Countries within the same market can be split into muliple zones, but a zone can not cover more than one market.
-   5. Add a shipping rate for this zone by clicking "Add rate" to add a shipping rate for this zone. Update your rate information as needed and click "Done" when finised.
+   3. If setting up a custom shipping profile, select your product condition preferences.
+   4. Add shipping zones by clicking "Add zone" to create a shipping zone. Update zone name and choose a market with underlying countries. Click "Done" when finished.
+      1. note: Countries within the same market can be split into multiple zones, but a zone can not cover more than one market.
+   5. Add a shipping rate for this zone by clicking "Add rate" to add a shipping rate for this zone. Update your rate information as needed and click "Done" when finished.
    6. If needed, add more shipping zones and rates. Once satisfied, click the save button to create your shipping profile.
 
 4. Install on storefront theme
